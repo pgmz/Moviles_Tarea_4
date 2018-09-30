@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tarea4_Parcelable</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_product_button_save">Save</string>
+    <string name="activity_product_button_cancel">Cancel</string>
+    <string name="activity_product_edittext_hint_title">Introduce title ...</string>
+    <string name="activity_product_edittext_hint_store">Introduce store ...</string>
+    <string name="activity_product_edittext_hint_location">Introduce location ...</string>
+    <string name="activity_product_edittext_hint_phone">Introduce phone ...</string>
+    <string name="activity_main_alienware_name">Alienware</string>
+    <string name="activity_main_MAC_name">MAC</string>
+    <string name="activity_main_store_name">BestBuy</string>
+    <string name="activity_main_store_phone">01 800 112 5866</string>
+    <string name="activity_main_store_location">Zapopan</string>
+    <string name="activity_main_alienware_description">Alienware - 15,6 4k Ultra Hd Con Pantalla Táctil De Ordenado</string>
+    <string name="activity_main_MAC_description">iMac Apple 21.5 Pulgadas Intel Core i5 8 GB RAM 1 TB Disco Duro</string>
+</resources>
